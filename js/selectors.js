@@ -1,1 +1,1 @@
-$('paragraphSelector')
+$('img')
