@@ -4,3 +4,6 @@ function paragraphSelector() {
 function lastImageSelector() {
   return $('parent-tag child-tag:last-child')
 }
+function ninjaBabySelector()  {
+  
+}
